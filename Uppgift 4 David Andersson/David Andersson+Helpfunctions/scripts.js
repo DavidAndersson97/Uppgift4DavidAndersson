@@ -1,0 +1,7 @@
+
+
+function charRemove(i, hejsan) {
+
+    
+}
+    
